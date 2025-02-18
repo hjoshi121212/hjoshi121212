@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Himanshu Joshi from Sirohi Rajasthan India <br><br>- 🔭 I’m a fresher looking for a full time position as a Frontend developer <br>- 📚 I'm currently learning and Workiing on ReactJs, NodeJs<br>- ⚡ In my free time I learn new technologies</p>
+<p align="left">I'm Himanshu Joshi from Sirohi Rajasthan India <br><br>- 🔭 I’m a fresher looking for a full time position as a Frontend developer <br>- 📚 I'm currently learning and Working on ReactJs, NodeJs<br>- ⚡ In my free time I learn new technologies</p>
 
 ###
 
